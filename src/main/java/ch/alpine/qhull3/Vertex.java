@@ -1,5 +1,5 @@
 // code by John E. Lloyd
-package ch.alpine.qhull3d;
+package ch.alpine.qhull3;
 
 import ch.alpine.tensor.Tensor;
 

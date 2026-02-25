@@ -1,5 +1,5 @@
 // code by John E. Lloyd
-package ch.alpine.qhull3d;
+package ch.alpine.qhull3;
 
 /** Maintains a single-linked list of faces for use by QuickHull3D */
 class FaceList {

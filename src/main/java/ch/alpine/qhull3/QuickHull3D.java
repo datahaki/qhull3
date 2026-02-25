@@ -8,7 +8,7 @@
  * for, any special, indirect, or consequential damages, or any damages
  * whatsoever, arising out of or in connection with the use of this
  * software. */
-package ch.alpine.qhull3d;
+package ch.alpine.qhull3;
 
 import java.io.PrintStream;
 import java.util.ArrayList;

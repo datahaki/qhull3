@@ -1,5 +1,5 @@
 // code by jph
-package ch.alpine.qhull3d;
+package ch.alpine.qhull3;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
